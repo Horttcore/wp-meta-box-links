@@ -33,7 +33,7 @@ class WP_Meta_Box_Link
 
 		foreach ( $post_types as $post_type ) :
 
-			add_meta_box( 'page-link', __( 'Colors' ), array( $this, 'meta_box' ), $post_type );
+			add_meta_box( 'page-link', __( 'Links' ), array( $this, 'meta_box' ), $post_type );
 
 		endforeach;
 
