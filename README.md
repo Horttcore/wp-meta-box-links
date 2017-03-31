@@ -6,9 +6,9 @@ A WordPress meta box submodule for links
 
 ### Actions
 
-### Filters
+#### Filters
 
-* `wp-meta-box-links--fields`
+* `wp-meta-box-links--fields` Add/remove link fields
 
 ## ToDo
 
