@@ -20,7 +20,7 @@ A WordPress meta box submodule for links
 ### v0.2.0
 
 * Add capability for multiple links
-* Add: Hook `wp-meta-box-links--fields`
+* Add: Hook `wp-meta-box-links--fields` added
 
 ### v0.1.0
 
