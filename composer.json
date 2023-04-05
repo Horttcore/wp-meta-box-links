@@ -1,0 +1,23 @@
+{
+  "name": "ralfhortt/wp-meta-box-links",
+  "description": "A WordPress meta box for links",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Ralf Hortt",
+      "email": "mail@ralfhortt.dev"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "RalfHortt\\MetaBoxLinks\\": "src/"
+    },
+    "files": [
+      "inc/functions.php"
+    ]
+  },
+  "require": {
+    "ralfhortt/wp-meta-box": "^3",
+    "ralfhortt/translator-service": "^1.0"
+  }
+}
